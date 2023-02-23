@@ -1,1 +1,1 @@
-# lekce-6-domaci-ukol
+# czechitas-lesson3
